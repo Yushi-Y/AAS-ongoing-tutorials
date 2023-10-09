@@ -7,7 +7,7 @@ Analytic Statistics for MSc Social Data Science 2023. In each of the directories
 before looking at the answers as this is the best way to check that you really
 understand them.
 
-Each notebook will be made available on Canvas and GitHub the Wednesday afternoon prior to the TA session. You have a full week to work through the notebook and must submit it to Canvas by the following **Wednesday at 5pm**. It is expected that the notebook is started during the TA session and completed in your own time. The partial solutions will be uploaded Fridays at 5pm. Please attempt and persevere with questions before turning to the solutions.
+Each notebook will be made available on Canvas and GitHub the Wednesday afternoon prior to the TA session. You have a full week to work through the notebook and must submit it to Canvas by the following *Wednesday at 5pm*. It is expected that the notebook is started during the TA session and completed in your own time. The partial solutions will be uploaded Fridays at 5pm. Please attempt and persevere with questions before turning to the solutions.
 
 * Contents
 
