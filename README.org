@@ -1,4 +1,4 @@
-#+title: Applied Analytic Statistics
+#+title: Applied Analytic Statistics 2023
 
 The notebooks in this repository are being written for use in the course Applied
 Analytic Statistics for MSc Social Data Science 2023. In each of the directories, the
@@ -11,7 +11,7 @@ understand them.
 
 ** Notebooks
 
-- [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W1-Intro_to_Python][Week 1 Notebook]] contains an overview of the software packages we will be using and
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W1-Intro_to_Python][Week 1 Notebook]] contains an overview of the software packages we will be using and
   basic Python skills (primarily plotting with =matplotlib=).
 
 ** Miscellaneous
