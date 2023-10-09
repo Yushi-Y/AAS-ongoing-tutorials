@@ -1,10 +1,9 @@
 #+title: Applied Analytic Statistics
 
 The notebooks in this repository are being written for use in the course Applied
-Analytic Statistics for MSc Social Data Science. Each of the directories, =example-<n>= contains two
-notebooks: =example-<n>-questions.ipynb= and =example-<n>-answers.ipynb=. The
-/questions/ notebook contains the questions for the practical sessions and the
-/answers/ one has partial answers. Please give the questions a solid attempt
+Analytic Statistics for MSc Social Data Science 2023. In each of the directories, the
+/questions/ notebook contains the questions for the practical sessions, and the
+/answers/ one has partial answers which will be uploaded after each session. Please give the questions a solid attempt
 before looking at the answers as this is the best way to check that you really
 understand them.
 
@@ -12,19 +11,12 @@ understand them.
 
 ** Notebooks
 
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-0][Example 0]] contains an overview of the software packages we will be using and
-  basic python skills (primarily plotting with =matplotlib=).
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-1][Example 1]] reviews the central limit theorem and looks at confidence intervals
-  and hypothesis tests.
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-2][Example 2]] reviews simple linear regression.
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-3][Example 3]] reviews multiple linear regression.
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-4][Example 4]] reviews hypothesis tests for contingency tables.
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-5][Example 5]] reviews logisic regression.
-- [[https://github.com/aezarebski/aas-extended-examples/tree/main/example-6][Example 6]] reviews mult-level models.
+- [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W1-Intro_to_Python][Week 1 Notebook]] contains an overview of the software packages we will be using and
+  basic Python skills (primarily plotting with =matplotlib=).
 
 ** Miscellaneous
 
-- The [[https://github.com/aezarebski/aas-extended-examples/blob/main/setup.org][setup]] page gives some instructions for setting up the software and
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/blob/main/setup.org][setup]] page gives some instructions for setting up the software and
   notebooks.
-- The [[https://github.com/aezarebski/aas-extended-examples/blob/main/additional-resources.org][additional resources]] page gives some pointers to additional resources
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/blob/main/additional-resources.org][additional resources]] page gives some pointers to additional resources
   including a list of good places to find datasets.
