@@ -13,8 +13,8 @@ Each notebook will be made available on Canvas and GitHub the Wednesday afternoo
 
 ** Notebooks
 
-- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W1-Intro_to_Python][Week 1 Notebook]] contains an overview of the software packages we will be using and
-  basic Python skills (primarily plotting with =matplotlib=).
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W1-Intro_to_Python][Week 1 Notebook]] contains an overview of the software packages we will be using and basic Python skills (primarily plotting with =matplotlib=).
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W2-Probability_and_CLT][Week 2 Notebook]] covers probability, distributions and the central limit theorem. 
 
 ** Miscellaneous
 
