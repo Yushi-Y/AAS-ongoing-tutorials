@@ -15,6 +15,9 @@ Each notebook will be made available on Canvas and GitHub the Wednesday afternoo
 
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W1-Intro_to_Python][Week 1 Notebook]] contains an overview of the software packages we will be using and basic Python skills (primarily plotting with =matplotlib=).
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W2-Probability_and_CLT][Week 2 Notebook]] covers probability, distributions and the central limit theorem. 
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W3-Simple_Linear_Regression][Week 3 Notebook]] is an introduction to simple linear regression. 
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W4-Multiple_Linear_Regression][Week 4 Notebook]] extends linear regression to multiple regressors. 
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W5-Contingency_Tables][Week 5 Notebook]] covers contingency tables and hypothesis testing with the chi-squared distribution. 
 
 ** Miscellaneous
 
