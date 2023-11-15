@@ -18,6 +18,8 @@ Each notebook will be made available on Canvas and GitHub the Wednesday afternoo
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W3-Simple_Linear_Regression][Week 3 Notebook]] is an introduction to simple linear regression. 
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W4-Multiple_Linear_Regression][Week 4 Notebook]] extends linear regression to multiple regressors. 
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W5-Contingency_Tables][Week 5 Notebook]] covers contingency tables and hypothesis testing with the chi-squared distribution. 
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W6-Logistic_Regression][Week 6 Notebook]] looks into binary and multinomial logistic regression.
+
 
 ** Miscellaneous
 
