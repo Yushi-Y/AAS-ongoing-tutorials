@@ -19,8 +19,8 @@ Each notebook will be made available on Canvas and GitHub the Wednesday afternoo
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W4-Multiple_Linear_Regression][Week 4 Notebook]] extends linear regression to multiple regressors. 
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W5-Contingency_Tables][Week 5 Notebook]] covers contingency tables and hypothesis testing with the chi-squared distribution. 
 - The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W6-Logistic_Regression][Week 6 Notebook]] looks into binary and multinomial logistic regression.
-- The [[]][Week 7 Folder] contains model answers from past students.
-- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W8_Multilevel_Modelling]][Week 8 Notebook] considers multilevel modelling (under week 7 on Canvas).
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W7_Model_Essays][Week 7 Folder]] contains model answers from past students.
+- The [[https://github.com/Yushi-Y/AAS-ongoing-tutorials/tree/main/W8_Multilevel_Modelling][Week 8 Notebook]] considers multilevel modelling (under week 7 on Canvas).
 
 
 ** Miscellaneous
